@@ -34,7 +34,7 @@ export default function Landing() {
         </div>
         <span className="total-connections">
           Total de 200 conexões já realizadas{' '}
-          <img src={purpleHeartIcon} alt="Conexões" />
+          <img src={purpleHeartIcon} alt="Coração roxo" />
         </span>
       </div>
     </div>
