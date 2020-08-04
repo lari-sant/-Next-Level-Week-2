@@ -7,8 +7,8 @@ export default function TeachItem() {
     <article className="teacher-item">
       <header>
         <img
-          src="https://avatars1.githubusercontent.com/u/25158249?s=460&u=8414f84269262fe9ddb731b4c27ca0a8dd69e759&v=4"
-          alt="Felipe Panegalli"
+          src="https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4"
+          alt="Diego Fernandes"
         />
         <div>
           <strong>Felipe Panegalli</strong>
