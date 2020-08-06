@@ -11,7 +11,7 @@ export default function TeachItem() {
           alt="Diego Fernandes"
         />
         <div>
-          <strong>Felipe Panegalli</strong>
+          <strong>Diego Fernandes</strong>
           <span>Informática</span>
         </div>
       </header>
